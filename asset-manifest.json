@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weatherReport/static/css/main.19ae4bb5.css",
+    "main.js": "/weatherReport/static/js/main.301193a8.js",
+    "static/media/weatherback.png": "/weatherReport/static/media/weatherback.b555c73dccfe421942c9.png",
+    "static/media/img_e.png": "/weatherReport/static/media/img_e.183de651753af603e409.png",
+    "static/media/img_f.png": "/weatherReport/static/media/img_f.3fad6579e7b3964bc462.png",
+    "static/media/img_d.png": "/weatherReport/static/media/img_d.d802d85cd8a07e576a6f.png",
+    "static/media/img_b.png": "/weatherReport/static/media/img_b.0f26bf9ed94644be0426.png",
+    "static/media/global.png": "/weatherReport/static/media/global.eae13c75d6f984444f5f.png",
+    "static/media/img_c.png": "/weatherReport/static/media/img_c.4aff172c69eeb067e1e7.png",
+    "static/media/img_a.png": "/weatherReport/static/media/img_a.94143ff34a6e326f6cf0.png",
+    "index.html": "/weatherReport/index.html",
+    "main.19ae4bb5.css.map": "/weatherReport/static/css/main.19ae4bb5.css.map",
+    "main.301193a8.js.map": "/weatherReport/static/js/main.301193a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ae4bb5.css",
+    "static/js/main.301193a8.js"
+  ]
+}
