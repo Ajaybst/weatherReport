@@ -9,6 +9,7 @@ let App = () => {
   return (
     <>
       <Navbar />
+
       <Routes>
         <Route path="/" exact element={<Home />} />
         <Route path="/weather" element={<Weather />} />
