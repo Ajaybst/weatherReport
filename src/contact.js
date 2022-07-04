@@ -120,7 +120,7 @@ let Contact = () => {
               </div>
 
               <div className="col-12">
-                <input type="submit" value="submit" />
+                <input type="submit" value="submit" className="btn_about" />
               </div>
             </form>
           </div>

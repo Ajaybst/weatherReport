@@ -9,9 +9,8 @@ let App = () => {
   return (
     <>
       <Navbar />
-
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" exact element={<Home />} />
         <Route path="/weather" element={<Weather />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/services" element={<Service />} />
